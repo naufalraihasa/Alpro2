@@ -41,3 +41,5 @@ def kalkulator_Versi_1 ():
             print("masukan nilai yang sesuai".center(55,"-"))
 
     kalkulator()
+    
+    print("Praktikum 1 selesai !")
